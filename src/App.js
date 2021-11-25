@@ -198,8 +198,8 @@ class App extends React.Component {
         <div className="author">
           {' '}
           Designed and Coded By <br />
-          <a href="https://goo.gl/6NNLMG" target="_blank">
-            Peter Weinberg
+          <a href="https://www.linkedin.com/in/henrique-nobre-1736141aa/" target="_blank">
+            Henrique Nobre
           </a>
         </div>
       </div>

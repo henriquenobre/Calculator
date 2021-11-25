@@ -1,5 +1,5 @@
 $button: #4d4d4d;
-@import 'https://fonts.googleapis.com/css?family=Share+Tech+Mono';
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
 @font-face {
   font-family: 'Digital';
   src: url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.eot');
@@ -36,7 +36,7 @@ body {
   border: 2px solid #47476b;
   padding: 5px;
   background: black;
-  width: 320px;
+  width: 334px;
   position: relative;
 }
 
