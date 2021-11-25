@@ -1,6 +1,6 @@
 {
   "homepage": "https://henriquenobre.github.io/Calculator",
-  "name": "drum-machine",
+  "name": "calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
