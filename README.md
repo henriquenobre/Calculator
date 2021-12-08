@@ -1,6 +1,6 @@
-# React-Drum-Machine - FreeCodeCamp Project
+# Calculator - FreeCodeCamp Project
 
-### Objective: Build a Drum Machine that could be played using click events and also keydown events.
+### Objective: Build a calculator with react.
 
 **In this project I've used a mix of HTML, JavaScript, CSS, SAAS, React.**
 
@@ -11,6 +11,6 @@
 * Run npm install.
 * Run npm start
 
-Check the live version here --> [**React-Drum-Machine**](https://henriquenobre.github.io/Drum-Machine/)
+Check the live version here --> [**Calculator**](https://henriquenobre.github.io/Calculator/)
 
-### using the Drum-Machine by clicking in the desired pad or by pressing the correspondent key on your keyboard (Q, W, E, A, S, D, Z, X, C.).
+
